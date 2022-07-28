@@ -1,0 +1,27 @@
+h1 {
+    margin: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-image: linear-gradient(rgba(220, 220, 220, 0.15), rgba(220, 220, 220, 0.15)),
+    url(./cielo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.micss{
+    background-color: #0009;
+    padding: 40px;
+    margin: 40px;
+    border-radius: 40px;
+    color: #fff;
+}
+
+.micss2{
+    background-color: #0009;
+    padding: 40px;
+    margin: 40px;
+    border-radius: 40px;
+}
